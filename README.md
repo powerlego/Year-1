@@ -1,1 +1,3 @@
-# Year-1
+# Writing Seminar Branch
+
+Only Writing Seminar stuff here
