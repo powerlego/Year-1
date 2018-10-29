@@ -1,0 +1,1 @@
+pandoc labs.md --template=pandoc_full_template.tex --include-in-header header.tex --filter pandoc-eqnos -s -o OhmsLaw.pdf
