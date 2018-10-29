@@ -1,0 +1,54 @@
+What is Economics
+	Economics is a social science on how economic agents choose to allocate the scarce resources optimally.
+Microeconomics
+	Individuals/Firms
+	The study of behavior of individuals and firms in markets
+	Demand, supply, elasticity of demand, market equilibrium and market structures
+Macroeconomics
+	Entire Economy
+	The Study of behavior of entire economy at national, regional, and global level
+	GDP, unemployment, inflation, economic growth
+Two big questions
+	What, how and for whom goods and services are produced?
+	Do choices made in the pursuit of self-interest
+Q1
+	What to produce? Varies among economies, countries and over time
+	Market Economy
+		Companies, individuals, business control what they produce
+		Voting by their $
+		Producers decide what to produce based on sales and sale of products
+	Command economy
+		Government tells what to produce and how much
+			North Korea
+			USSR
+			China
+		
+	Mixed Economy
+		Both market forces and government choose what is produced
+			Market Forces prevail
+			Government controls the flow of money
+				US
+				China
+	How to produce? factors of production
+		Land
+			Any natural resources used to produce goods and services (timber, coal, precious material, water...)
+				Can be renewable or non renewable
+			The income that resource owners earn in return for land is called rent
+		Labor
+			The efforts people contribute to the population of goods and services. (not simply the physical efforts, but refer to the skills and abilities to produce).
+			The income earned by labor resources is called wage and is the largest source of income for most people.
+		Capital
+			Final goods produced for use in further production (building, machine, tool)
+			The income earned by owners of capital resources is interest.
+			Is money a type of capital?
+				Not capital not a produced resource
+		Entrepreneurship
+			Provide innovation and creativity in the use of the other factors
+			The payment to entrepreneurship is profit
+Q2
+	Self-interest is when individuals make decisions that are their own best interest
+	Social-interest is when choices are made that benefit society 
+	do choices mad in the pursuit of self-interest also prompt the social interest?
+	Invisible Hand
+		Self-interest aligns social-interest
+		
